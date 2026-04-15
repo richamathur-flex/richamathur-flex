@@ -14,8 +14,6 @@ Currently focused on:
 
  I’m continuously building projects, experimenting with AI architectures, and exploring how intelligent systems can transform real-world business processes.
 
-Let’s connect, collaborate, and build the future of AI together!
-
 🛠️ Tech Stack
 
 **AI/ML:**  
