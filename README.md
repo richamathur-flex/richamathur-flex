@@ -15,3 +15,41 @@ Currently focused on:
  I’m continuously building projects, experimenting with AI architectures, and exploring how intelligent systems can transform real-world business processes.
 
 Let’s connect, collaborate, and build the future of AI together!
+
+🛠️ Tech Stack
+
+**AI/ML:**  
+LangChain, LangGraph, CrewAI, OpenAI GPT, Claude, RAG, Vector Search  
+
+**Cloud & Data:**  
+OCI, ADW, API Gateway, Redis, Object Storage  
+
+**Frameworks & Tools:**  
+FastAPI, Python, SQL, REST APIs, Git, Docker  
+
+**Enterprise Systems:**  
+Oracle Fusion ERP, SCM, HCM  
+
+🎓 Certifications
+
+### 🤖 AI & Generative AI
+- Fusion AI Agent Studio Foundations  
+- AI Vector Search Professional  
+- OCI GenAI Certified Professional  
+- Generative AI (Microsoft / LinkedIn)
+
+### ☁️ Cloud & Architecture
+- OCI Architect Professional  
+- OCI Developer Professional  
+- OCI Cloud Operations Professional  
+- Autonomous Database Cloud Professional  
+
+### 📊 Data Science & AI
+- OCI Data Science Professional  
+- OCI AI Foundations Associate  
+
+### 📈 Analytics & Enterprise
+- OCI Enterprise Analytics Professional  
+- SAP SuccessFactors EC Associate  
+- SAP Data Intelligence for AI  
+- Certified ScrumMaster  
