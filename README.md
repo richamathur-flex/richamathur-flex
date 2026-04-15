@@ -52,4 +52,10 @@ Oracle Fusion ERP, SCM, HCM
 - OCI Enterprise Analytics Professional  
 - SAP SuccessFactors EC Associate  
 - SAP Data Intelligence for AI  
-- Certified ScrumMaster  
+- Certified ScrumMaster
+
+- 📫 Let’s Connect!
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/richamathurr  
+- 🔗 ORCID: https://orcid.org/0009-0007-1037-7169  
+- 📧 Email: richa.agenticai@gmail.com  
