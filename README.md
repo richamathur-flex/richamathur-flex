@@ -40,9 +40,9 @@ Oracle Fusion ERP, SCM, HCM
 - Generative AI (Microsoft / LinkedIn)
 
 ### ☁️ Cloud & Architecture
-- OCI Architect Professional  
+-Microsoft Certified: Azure Fundamentals
+- OCI Cloud Operations Professional OCI Architect Professional  
 - OCI Developer Professional  
-- OCI Cloud Operations Professional  
 - Autonomous Database Cloud Professional  
 
 ### 📊 Data Science & AI
@@ -59,4 +59,4 @@ Oracle Fusion ERP, SCM, HCM
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/richamathurr  
 - 🔗 ORCID: https://orcid.org/0009-0007-1037-7169  
-- 📧 Email: richa.agenticai@gmail.com  
+- 📧 Email: richa.msba@gmail.com  
