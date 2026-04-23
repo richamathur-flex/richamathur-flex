@@ -6,6 +6,8 @@ I hold a Bachelors of Engineering in Computer Science from Rajiv Gandhi Technica
 
 With hands-on experience in Oracle Cloud Infrastructure (OCI),Azure, AI Agent Studio, RAG, NL2SQL, and modern AI frameworks, I actively work on building scalable AI applications across enterprise domains like ERP, SCM, and HCM.
 
+📌 Note: My 7+ years of enterprise AI engineering at Oracle was delivered through internal repositories and is proprietary. This public GitHub showcases personal projects and open-source work I'm building to demonstrate the same skills in publicly visible form.
+
 Currently focused on:
 - Agentic AI & Multi-Agent Systems  
 - Generative AI (OpenAI, Claude, RAG pipelines)  
