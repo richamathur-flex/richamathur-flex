@@ -13,7 +13,7 @@ With hands-on experience in Oracle Cloud Infrastructure (OCI), Azure, AI Agent S
 - Agentic AI & Multi-Agent Systems
 - Generative AI (OpenAI, Claude, RAG pipelines)
 - Enterprise AI Solutions & Automation
-- Cloud & Data Platforms (OCI, ADW, APIs)
+- Cloud & Data Platforms (OCI, Azure, ADW, APIs)
 
 I'm continuously building projects, experimenting with AI architectures, and exploring how intelligent systems can transform real-world business processes.
 
