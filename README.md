@@ -40,8 +40,8 @@ Oracle Fusion ERP, SCM, HCM
 - Generative AI (Microsoft / LinkedIn)
 
 ### ☁️ Cloud & Architecture
--Microsoft Certified: Azure Fundamentals
-- OCI Cloud Operations Professional OCI Architect Professional  
+- Microsoft Certified: Azure Fundamentals
+- OCI Cloud Operations Professional OCI Architect Professional
 - OCI Developer Professional  
 - Autonomous Database Cloud Professional  
 
